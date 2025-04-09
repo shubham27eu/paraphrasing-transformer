@@ -1,4 +1,3 @@
-Here is the complete README.md content as a single document, ready to be copied and pasted directly into your project folder:
 
 ⸻
 
