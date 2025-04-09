@@ -1,0 +1,19 @@
+# Python cache and venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Data
+*.csv
+*.tsv
+*.zip
+*.pkl
+*.pt
+quora-question-pairs/
+paraphrase_results.csv
+bleu_histogram.png
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
