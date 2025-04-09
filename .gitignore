@@ -9,8 +9,6 @@ venv/
 *.csv
 *.tsv
 *.zip
-*.pkl
-*.pt
 glove.6B.100d.txt
 quora-question-pairs/
 paraphrase_results.csv
